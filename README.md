@@ -2,6 +2,7 @@
 
 Changing directly through a commit
 Changing through a pull request
+Changing again directly, but with [skip ci] commit message
 
 Repo for the `GitHub Actions Fundamentals` training.
 
