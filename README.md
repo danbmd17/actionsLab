@@ -1,6 +1,7 @@
 # GitHub Actions Fundamentals
 
 Changing directly through a commit
+Changing through a pull request
 
 Repo for the `GitHub Actions Fundamentals` training.
 
