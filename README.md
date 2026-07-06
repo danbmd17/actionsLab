@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+Changing directly through a commit
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
